@@ -1,0 +1,22 @@
+Linear Width
+Widened Width
+Linear bulging Width
+Normal Color
+Pink Color
+Red Color
+Purple Color
+Normal Pigmentation
+Pigmented Pigmentation
+Hypopigmented Pigmentation
+Flat Surface
+Hypertrophic Surface
+Keloid Surface
+Atrophic Surface
+no Irregular Color
+mild Irregular Color
+moderate Irregular Color
+severe Irregular Color
+no Irregular Height
+mild Irregular Height
+moderate Irregular Height
+severe Irregular Height
