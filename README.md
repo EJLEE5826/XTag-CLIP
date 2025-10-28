@@ -1,5 +1,6 @@
-# Medical Image Classification Project
+# XTag-CLIP
 
+Official PyTorch implementation of "XTag-CLIP: Robust and Reliable Thyroid Scar Analysis with Limited Data via Cross-Attention" (MICCAI AMAI 2025)
 A comprehensive framework for training and evaluating deep learning models on medical scar image classification tasks, with support for CLIP-based models (BiomedCLIP, OpenCLIP) and traditional CNN architectures (ResNet50).
 
 ## Project Overview
